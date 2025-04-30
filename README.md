@@ -1,5 +1,5 @@
 ## <p align="center"> Hi there, I'm Avishek Upadhyay <img src="https://komarev.com/ghpvc/?username=avisheku&label=Profile%20views&color=0e75b6&style=flat" alt="avisheku" /> </p>
-<h3 align="left">Senior Software Engineer with 6+ years of experience in developing scalable applications and microservices.</h3>
+<h3 align="left">Senior Software Engineer and Principal Engineer with 6+ years of experience in developing scalable applications and microservices.</h3>
   
 - 📫 How to reach me **avishek.upadhyay121@gmial.com**
 - 📄 Know about my experiences [https://avisheku.github.io/portfolio/](https://avisheku.github.io/portfolio/)
