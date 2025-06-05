@@ -1,5 +1,6 @@
 ## <p align="center"> Hi there, I'm Avishek Upadhyay <img src="https://komarev.com/ghpvc/?username=avisheku&label=Profile%20views&color=0e75b6&style=flat" alt="avisheku" /> </p>
-<h3 align="left">Senior Software Engineer and Principal Engineer with 6+ years of experience in developing scalable applications and microservices.</h3>
+<h3 align="left">Lead Software Engineer with 7 years of expertise in building scalable enterprise applications using Java, Spring Boot, and
+microservices. Skilled in performance tuning, data governance, API design, and cloud deployment.</h3>
   
 - 📫 How to reach me **avishek.upadhyay121@gmial.com**
 - 📄 Know about my experiences [https://avisheku.github.io/portfolio/](https://avisheku.github.io/portfolio/)
